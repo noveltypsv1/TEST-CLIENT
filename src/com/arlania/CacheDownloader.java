@@ -28,7 +28,7 @@ public class CacheDownloader implements Runnable {
 	private static final String CACHE_PATH = System.getProperty("user.home") + File.separator + "NoveltyPSCache" + File.separator;
 	private static final String ZIP_URL = "https://dl.dropbox.com/s/gmzwrgqbld3avoy/NoveltyPSCache.zip"; // Okkk ty i gtg now
 	private static final String VERSION_FILE = CACHE_PATH + "cache_version.txt";
-	private static final int CACHE_VERSION = 32;
+	private static final int CACHE_VERSION = 33;
 
 	private CacheDownloader.GUI g;
 

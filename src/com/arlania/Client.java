@@ -12254,6 +12254,7 @@ public class Client extends RSApplet {
 			//customMinimapIcons.add(new CustomMinimapIcon(X, Y, new Sprite(mediaArchive, "mapfunction", 1)));
 			//bank
 			customMinimapIcons.add(new CustomMinimapIcon(3212, 3438, new Sprite(mediaArchive, "mapfunction", 5)));
+			customMinimapIcons.add(new CustomMinimapIcon(2415, 3816, new Sprite(mediaArchive, "mapfunction", 5)));
 			//trees
 			customMinimapIcons.add(new CustomMinimapIcon(3368, 9652, new Sprite(mediaArchive, "mapfunction", 34)));
 			customMinimapIcons.add(new CustomMinimapIcon(3357, 9652, new Sprite(mediaArchive, "mapfunction", 34)));
