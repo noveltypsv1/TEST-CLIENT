@@ -15598,9 +15598,9 @@ public class Client extends RSApplet {
 		SpriteLoader.sprites[/*rememberMe ? */600/* : 599*/].drawAdvancedSprite(347, 346);
 
 		if (loginScreenCursorPos == 0 && loopCycle % 45 < 10) {
-			chatTextDrawingArea.drawRegularText(true, 277, 16777215, myUsername + "|", 255);
+			chatTextDrawingArea.drawRegularText(true, 350, 16777215, myUsername + "|", 287);
 		} else {
-			chatTextDrawingArea.drawRegularText(true, 277, 16777215, myUsername, 255);
+			chatTextDrawingArea.drawRegularText(true, 350, 16777215, myUsername, 287);
 		}
 
 		if (loginScreenCursorPos == 1 && loopCycle % 45 < 10) {
