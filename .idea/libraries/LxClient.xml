@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LxClient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/ImpunityX_Client_jar/LxClient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
